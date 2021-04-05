@@ -1,0 +1,29 @@
+h3{
+    
+    color:rgb(65, 56, 9);
+    text-align: center;
+    
+}
+.span{
+    font-family: 'Caveat', cursive;
+    color:rgb(131, 131, 17);
+
+}
+.foto{ 
+    height: 600px;
+    width: 800px;
+}
+.nav-item{
+    font-family: 'Bebas Neue', cursive;
+}
+.d-flex{
+    position: fixed;
+}
+.encoxsatilan{
+    font-family: 'Caveat', cursive;
+    color:rgb(131, 131, 17);
+}
+.yenigelen{
+    font-family: 'Caveat', cursive;
+    color:rgb(131, 131, 17);
+}
